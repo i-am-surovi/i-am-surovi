@@ -1,3 +1,3 @@
-# Counter
-![](https://komarev.com/ghpvc/?username=i-am-surovi&style=flat-square&label=Profile+ViewsS&base=1000)
+# Profile Views
+![](https://komarev.com/ghpvc/?username=i-am-surovi&style=flat-square&label=Profile+Views&base=1000)
 
