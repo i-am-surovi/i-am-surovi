@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**i-am-surovi/i-am-surovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Counter
+![](https://komarev.com/ghpvc/?username=i-am-surovi)
+# Personal
+# Colour
+![](https://komarev.com/ghpvc/?username=i-am-surovi&color=brightgreen)
+# Hex Colour
+![](https://komarev.com/ghpvc/?username=i-am-surovi&color=66ff00)
+# Style
+![](https://komarev.com/ghpvc/?username=i-am-surovi&style=plastic)
+# Lebel
+![](https://komarev.com/ghpvc/?username=i-am-surovi&label=PROFILE+VIEWS)
+# Base
+![](https://komarev.com/ghpvc/?username=i-am-surovi&base=1000)
