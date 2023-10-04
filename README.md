@@ -1,13 +1,13 @@
 # Counter
 ![](https://komarev.com/ghpvc/?username=i-am-surovi)
-# Personal
-# Colour
+Personal
+Colour
 ![](https://komarev.com/ghpvc/?username=i-am-surovi&color=brightgreen)
-# Hex Colour
+Hex Colour
 ![](https://komarev.com/ghpvc/?username=i-am-surovi&color=66ff00)
-# Style
+Style
 ![](https://komarev.com/ghpvc/?username=i-am-surovi&style=plastic)
-# Lebel
+Lebel
 ![](https://komarev.com/ghpvc/?username=i-am-surovi&label=PROFILE+VIEWS)
-# Base
+Base
 ![](https://komarev.com/ghpvc/?username=i-am-surovi&base=1000)
