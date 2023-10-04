@@ -1,3 +1,3 @@
 # Counter
-![](https://komarev.com/ghpvc/?username=i-am-surovi&color=66ff00&style=plastic&label=PROFILE+VIEWS&base=1000)
+![](https://komarev.com/ghpvc/?username=i-am-surovi&style=flat-square&label=Profile+ViewsS&base=1000)
 
