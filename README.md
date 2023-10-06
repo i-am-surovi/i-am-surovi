@@ -34,7 +34,9 @@
 [![Surovi's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCe7UvXpfUbNrwRbH2JVp1Ng&layout=center&theme=higncontrast)](https://www.youtube.com/channel/UCe7UvXpfUbNrwRbH2JVp1Ng)
 
 ### Connect with me
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/sumaiya-hossain-surovi"
+<!-- display the social media buttons in your README -->
+
+[![](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))](https://www.facebook.com/Sumaiya.Hossain.Surovi)]
+[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))](https://www.instagram.com/surovi_the_hodophile)
+[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))](https://twitter.com/surovi_chan)
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))](https://linkedin.com/in/sumaiya-hossain-surovi)
