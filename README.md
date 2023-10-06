@@ -19,7 +19,7 @@
 * Civic Engagements
 
 ## My GitHub Stats
-![Surovi's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-am-surovi&show_icons=true&theme=dark)
+![Surovi's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-am-surovi&show_icons=true&theme=tokyonight)
 
 ### Profile Views
 ![](https://komarev.com/ghpvc/?username=i-am-surovi&style=flat-square&label=Profile+Views&base=100)
