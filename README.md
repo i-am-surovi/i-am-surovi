@@ -40,4 +40,4 @@
 [![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))](https://www.instagram.com/surovi_the_hodophile)
 [![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))](https://twitter.com/surovi_chan)
 [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))](https://linkedin.com/in/sumaiya-hossain-surovi)
-[![hackerrank](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/HackerRank.png (HackerRank))](https://www.hackerrank.com/sumaiya_hossain)
+[hackerrank]: https://www.hackerrank.com/sumaiya_hossain
