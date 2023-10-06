@@ -30,3 +30,5 @@
 ### Tools and Languages 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-surovi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)      
 
+### My Youtube Channel Stats
+[![Surovi's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCe7UvXpfUbNrwRbH2JVp1Ng&layout=center&theme=higncontrast)](https://www.youtube.com/channel/UCe7UvXpfUbNrwRbH2JVp1Ng)
