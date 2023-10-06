@@ -32,3 +32,9 @@
 
 ### My Youtube Channel Stats
 [![Surovi's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCe7UvXpfUbNrwRbH2JVp1Ng&layout=center&theme=higncontrast)](https://www.youtube.com/channel/UCe7UvXpfUbNrwRbH2JVp1Ng)
+
+### Connect with me
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/sumaiya-hossain-surovi"
