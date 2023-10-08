@@ -18,7 +18,10 @@
 * Competitive Programming
 * Civic Engagements
 
-## My GitHub Stats
+ ### Skills
+ ![<PYTHON>](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### My GitHub Stats
 ![Surovi's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-am-surovi&show_icons=true&theme=chartreuse-dark)
 
 ### Profile Views
