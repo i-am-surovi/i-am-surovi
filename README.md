@@ -24,9 +24,6 @@
 ### Profile Views
 ![](https://komarev.com/ghpvc/?username=i-am-surovi&style=flat&label=Profile+Views&base=100)
 
-### My start
-https://img.shields.io/github/stars/i-am-surovi
-
 ### My GitHub Streaks and Contributions
 [![Surovi's Streak](http://github-readme-streak-stats.herokuapp.com?user=i-am-surovi&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -48,10 +45,19 @@ https://img.shields.io/github/stars/i-am-surovi
   <a href="https://linkedin.com/in/sumaiya-hossain-surovi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.facebook.com/Sumaiya.Hossain.Surovi">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://www.instagram.com/surovi_the_hodophile">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Facebook Badge"/>
+  </a>  
   <a href="https://www.youtube.com/channel/UCe7UvXpfUbNrwRbH2JVp1Ng">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="[your-twitter-URL](https://twitter.com/surovi_chan)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+    <a href="[your-twitter-URL](https://twitter.com/surovi_chan)">
+    <img src="https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
   </a>
 </div>
