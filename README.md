@@ -22,7 +22,10 @@
 ![Surovi's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-am-surovi&show_icons=true&theme=chartreuse-dark)
 
 ### Profile Views
-![](https://komarev.com/ghpvc/?username=i-am-surovi&style=for-the-badge&label=Profile+Views&color=brightgreen&base=100)
+![](https://komarev.com/ghpvc/?username=i-am-surovi&style=flat&label=Profile+Views&base=100)
+
+### My start
+https://img.shields.io/github/stars/i-am-surovi
 
 ### My GitHub Streaks and Contributions
 [![Surovi's Streak](http://github-readme-streak-stats.herokuapp.com?user=i-am-surovi&theme=dark&background=000000)](https://git.io/streak-stats)
