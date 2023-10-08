@@ -34,30 +34,29 @@
 [![Surovi's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCe7UvXpfUbNrwRbH2JVp1Ng&layout=center&theme=higncontrast)](https://www.youtube.com/channel/UCe7UvXpfUbNrwRbH2JVp1Ng)
 
 ### Connect with me
-<!-- display the social media buttons in your README -->
-
-[![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))](https://www.facebook.com/Sumaiya.Hossain.Surovi)
-[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))](https://www.instagram.com/surovi_the_hodophile)
-[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))](https://twitter.com/surovi_chan)
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))](https://linkedin.com/in/sumaiya-hossain-surovi)
 
 <div id="badges">
   <a href="https://linkedin.com/in/sumaiya-hossain-surovi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
   <a href="https://www.facebook.com/Sumaiya.Hossain.Surovi">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+  
   <a href="https://www.instagram.com/surovi_the_hodophile">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Facebook Badge"/>
-  </a>  
+  </a>
+  
   <a href="https://www.youtube.com/channel/UCe7UvXpfUbNrwRbH2JVp1Ng">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://twitter.com/surovi_chan)">
+  
+  <a href="https://twitter.com/surovi_chan">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="[your-twitter-URL](https://twitter.com/surovi_chan)">
-    <img src="https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
+  
+  <a href="https://www.hackerrank.com/sumaiya_hossain">
+    <img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
   </a>
 </div>
