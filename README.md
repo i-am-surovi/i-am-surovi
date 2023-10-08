@@ -4,8 +4,6 @@
 * I have completed my SSC from St. Francis Xaviers' Girl's School And Collge and HSC from Motijheel Ideal School And College.
 
 ### Interests
-* Python
-* C++
 * Competitive Programmimg
 * Data Science
 * Machine Learning
@@ -14,20 +12,19 @@
 * Leadership
   
 ### Experiences
-* Python
-* Competitive Programming
+* Web Development
 * Civic Engagements
 
- ### Skills
- * Languages:
- ![<PYTHON>](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
- https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
- https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
- https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
- https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
- https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
- https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
- https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+### Skills
+* Languages:
+![<PYTHON>](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![<HTML5>](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![<CSS3>](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![<JAVASCRIPT>](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![<C>](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![<C++>](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![<JAVA>](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![<PHP>](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 * Tech Stack:
 
 
