@@ -26,7 +26,7 @@
 ![<JAVA>](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![<PHP>](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ### Tech Stack:
-
+![<REACT>](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
 
 ### My GitHub Stats
 ![Surovi's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-am-surovi&show_icons=true&theme=chartreuse-dark)
