@@ -22,7 +22,7 @@
 ![Surovi's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-am-surovi&show_icons=true&theme=chartreuse-dark)
 
 ### Profile Views
-![](https://komarev.com/ghpvc/?username=i-am-surovi&style=flat-square&label=Profile+Views&color=brightgreen&base=100)
+![](https://komarev.com/ghpvc/?username=i-am-surovi&style=for-the-badge&label=Profile+Views&color=brightgreen&base=100)
 
 ### My GitHub Streaks and Contributions
 [![Surovi's Streak](http://github-readme-streak-stats.herokuapp.com?user=i-am-surovi&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -40,3 +40,15 @@
 [![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))](https://www.instagram.com/surovi_the_hodophile)
 [![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))](https://twitter.com/surovi_chan)
 [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))](https://linkedin.com/in/sumaiya-hossain-surovi)
+
+<div id="badges">
+  <a href="https://linkedin.com/in/sumaiya-hossain-surovi">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCe7UvXpfUbNrwRbH2JVp1Ng">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="[your-twitter-URL](https://twitter.com/surovi_chan)">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
