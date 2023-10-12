@@ -9,7 +9,7 @@
 * Data Science
 * Machine Learning
 * Full Stack Wed Development
-* Creative Writings
+* [Creative Writings](https://www.bangla-kobita.com/surovi06)
 * Leadership
   
 ### Experiences
