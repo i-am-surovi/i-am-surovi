@@ -1,6 +1,6 @@
 ### Hi There !
 * I am Sumaiya Hossain Surovi.
-* I am currently a student of Computer Science and Engineering at BRAC University.
+* I am currently a student of Computer Science and Engineering at [BRAC University](https://www.bracu.ac.bd/).
 * I have completed my SSC from St. Francis Xaviers' Girl's School And Collge and HSC from Motijheel Ideal School And College.
 
 ### Interests
