@@ -1,8 +1,8 @@
 ### Hi There !
 * I am Sumaiya Hossain Surovi.
 * I am currently a student of Computer Science and Engineering at [BRAC University](https://www.bracu.ac.bd/).
-* I have completed my [Secondary School Certificate(SSC)](https://en.wikipedia.org/wiki/Secondary_School_Certificate) from [St. Francis Xaviers' Girl's School And Collge](https://sfxgsc.edu.bd/)
-* I have completed my [Higher Secondary Certificate(HSC)](https://en.wikipedia.org/wiki/Higher_Secondary_Certificate) from [Ideal School And College, Motijheel](https://iscm.edu.bd/).
+* I have completed my [Secondary School Certificate - SSC](https://en.wikipedia.org/wiki/Secondary_School_Certificate) from [St. Francis Xaviers' Girl's School And Collge](https://sfxgsc.edu.bd/)
+* I have completed my [Higher Secondary Certificate - HSC](https://en.wikipedia.org/wiki/Higher_Secondary_Certificate) from [Ideal School And College, Motijheel](https://iscm.edu.bd/).
 
 ### Interests
 * Competitive Programmimg
