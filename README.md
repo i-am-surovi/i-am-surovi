@@ -75,6 +75,11 @@
   <a href="https://www.hackerrank.com/sumaiya_hossain">
     <img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
   </a>
+
+  <a href="https://toph.co/u/GladToSeeYou">
+    <img src="https://img.shields.io/badge/Toph-white?style=for-the-badge&logo=toph&logoColor=black" alt="Toph Badge"/>
+  </a>
+  
 </div>
 
 # 🙋‍♂️ Support
