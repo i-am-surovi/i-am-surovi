@@ -82,5 +82,10 @@
   
 </div>
 
+# My Resume
+![Sumaiya_Hossain Surovi_Resume_page-0001](https://github.com/i-am-surovi/i-am-surovi/assets/117065226/60a79041-29b9-4dec-8078-5a51006c1c1e)
+
+![Sumaiya_Hossain Surovi_Resume_page-0002](https://github.com/i-am-surovi/i-am-surovi/assets/117065226/044010b1-caf1-4194-9969-7f8e84e366cb)
+
 # 🙋‍♂️ Support
 * If you find any of my repository/ project useful then please give it a ⭐ and share it with your friends!
