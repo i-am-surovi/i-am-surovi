@@ -45,7 +45,7 @@
 [![Surovi's Streak](http://github-readme-streak-stats.herokuapp.com?user=i-am-surovi&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### WakaTime Stats
-[![Surovi's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=i-am-surovi)](https://github.com/anuraghazra/github-readme-stats)
+[![Surovi's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?i-am-surovi)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tools and Languages 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-surovi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)      
