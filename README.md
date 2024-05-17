@@ -16,6 +16,7 @@
 ### Experiences
 * Web Development
 * Civic Engagements
+* Campus Ambassador 
 
 ## Skills
 ### Languages:
