@@ -32,7 +32,9 @@
 ![<REACT>](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
 ![<GITHUB>](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)
 ![<DJANGO>](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white)
-![<EXPRESS.JS>](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express.js&logoColor=white)
+![<EXPRESS>](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
+![<TailwindCSS>](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=TailwindCSS&logoColor=white)
+![<WORDPRESS>](https://img.shields.io/badge/WordPress-blue?style=for-the-badge&logo=WordPress&logoColor=white)
 ![<FIREBASE>](https://img.shields.io/badge/Firebase-ED8B00?style=for-the-badge&logo=firebase&logoColor=white)
 
 
