@@ -29,6 +29,7 @@
 ![<JAVA>](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![<PHP>](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ### Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=react,vue,flutter&perline=3)](https://skillicons.dev)
 ![<REACT>](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
 ![<GITHUB>](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)
 ![<DJANGO>](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white)
