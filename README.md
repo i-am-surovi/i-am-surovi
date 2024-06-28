@@ -51,7 +51,10 @@
 [![Surovi's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=surovi03)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tools and Languages 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-surovi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)      
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-surovi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)     
+
+### My GitHub Trophies
+[![Surovi's Trophy](https://github-profile-trophy.vercel.app/?username=i-am-surovi)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### My Youtube Channel Stats
 [![Surovi's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCe7UvXpfUbNrwRbH2JVp1Ng&layout=center&theme=higncontrast)](https://www.youtube.com/channel/UCe7UvXpfUbNrwRbH2JVp1Ng)
