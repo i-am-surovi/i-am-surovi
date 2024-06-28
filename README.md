@@ -29,15 +29,7 @@
 ![<JAVA>](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![<PHP>](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ### Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=react,vue,flutter&perline=3)](https://skillicons.dev)
-![<REACT>](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
-![<GITHUB>](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)
-![<DJANGO>](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django&logoColor=white)
-![<EXPRESS>](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
-![<TailwindCSS>](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=TailwindCSS&logoColor=white)
-![<WORDPRESS>](https://img.shields.io/badge/WordPress-blue?style=for-the-badge&logo=WordPress&logoColor=white)
-![<FIREBASE>](https://img.shields.io/badge/Firebase-ED8B00?style=for-the-badge&logo=firebase&logoColor=white)
-
+[![My Skills](https://skillicons.dev/icons?i=react,django,express,figma,firebase,flask,git,github,gitlab,gmail,ai,kotlin,laravel,mongodb,nextjs,nodejs,php,ai,ps,powershell,pycharm,redux,sublime,tailwind,vscode,windows,vue,flutter&perline=10)](https://skillicons.dev)
 
 ### My GitHub Stats
 ![Surovi's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-am-surovi&show_icons=true&theme=chartreuse-dark)
