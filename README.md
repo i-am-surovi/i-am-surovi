@@ -20,7 +20,7 @@
 
 ## Skills
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,js,java,c,cpp,ruby,atom,mysql,php&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,js,java,c,cpp,ruby,atom,mysql,php&perline=20)](https://skillicons.dev)
 
 ### Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=react,django,express,figma,bootstrap,firebase,flask,git,github,jquery,gitlab,linux,matlab,gmail,ai,kotlin,angular,arduino,laravel,mongodb,nextjs,nodejs,ai,ps,powershell,pycharm,redux,sublime,tailwind,vscode,windows,vue,flutter&perline=10)](https://skillicons.dev)
