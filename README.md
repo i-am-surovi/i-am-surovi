@@ -6,8 +6,8 @@
 * I have completed my [Higher Secondary Certificate - HSC](https://en.wikipedia.org/wiki/Higher_Secondary_Certificate) from [Ideal School And College, Motijheel](https://iscm.edu.bd/).
 
 ### Projects:
-*[Alpha Clash Pro](https://i-am-surovi.github.io/Alpha-Clash-Pro/) - Keyboard Game
-*[Bus e-ticket](https://i-am-surovi.github.io/B9A5-Mostafa-eTicket/) - Book a bus e-ticket
+* [Alpha Clash Pro](https://i-am-surovi.github.io/Alpha-Clash-Pro/) - Keyboard Game.
+* [Bus e-ticket](https://i-am-surovi.github.io/B9A5-Mostafa-eTicket/) - Book a bus e-ticket.
 
 ### Interests
 * Competitive Programmimg
