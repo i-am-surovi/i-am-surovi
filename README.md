@@ -1,5 +1,6 @@
 ### Hi There !
 * I am Sumaiya Hossain Surovi.
+* I am a MERN Stack (Full Stack) Developer. Also an undergrad student of Computer Science (CS) in BRAC University. 
 * My Portfolio Website - 
 * I am currently a student of Computer Science and Engineering at [BRAC University](https://www.bracu.ac.bd/).
 * I have completed my [Secondary School Certificate - SSC](https://en.wikipedia.org/wiki/Secondary_School_Certificate) from [St. Francis Xaviers' Girl's School And Collge](https://sfxgsc.edu.bd/)
@@ -8,8 +9,9 @@
 ### Projects:
 * [Alpha Clash Pro](https://i-am-surovi.github.io/Alpha-Clash-Pro/) - Keyboard Game.
 * [Bus e-ticket](https://i-am-surovi.github.io/B9A5-Mostafa-eTicket/) - Book a bus e-ticket.
-* [Online Learning System](https://knowsy-lms.vercel.app/) - Full Stack LMS Project using MERN Stact
-* [Dr.Pharmedic](https://dr-pharmedic-client.vercel.app/) - Doctor Appointment Booking and Drug Purchase Management System 
+* [JOBlent](https://client-ten-peach-96.vercel.app/) - Job Portal System.
+* [Knowsy](https://knowsy-lms.vercel.app/) - Full Stack Learning Management System (LMS) Project using MERN Stact.
+* [Dr.Pharmedic](https://dr-pharmedic-client.vercel.app/) - Doctor Appointment Booking and Drug Purchase Management System.
 
 ### Interests
 * Competitive Programmimg
