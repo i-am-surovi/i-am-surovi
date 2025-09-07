@@ -9,6 +9,7 @@
 * [Alpha Clash Pro](https://i-am-surovi.github.io/Alpha-Clash-Pro/) - Keyboard Game.
 * [Bus e-ticket](https://i-am-surovi.github.io/B9A5-Mostafa-eTicket/) - Book a bus e-ticket.
 * [Online Learning System](https://knowsy-lms.vercel.app/) - Full Stack LMS Project using MERN Stact
+* [Dr.Pharmedic](https://dr-pharmedic-client.vercel.app/) - Doctor Appointment Booking and Drug Purchase Management System 
 
 ### Interests
 * Competitive Programmimg
